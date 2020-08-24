@@ -2,10 +2,10 @@
 
 ## Software Engineer, and Content Creator!
 
-- 🔭 I’m currently working on Python video tutorials!
+- 🔭 I’m currently working on a Python video tutorial series!
 - 🌱 Always learning something new...
 - 👯 Looking for collaboration with others...
-- 🆘 Maybe i can help you..
+- 🆘 Maybe I can help you..
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 <!-- 
