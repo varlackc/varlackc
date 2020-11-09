@@ -22,9 +22,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/806761350c1aaba2b12e14297d299fc7858248df4f96d464d6240be5f05fd6d5/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" alt="C" src="https://camo.githubusercontent.com/d5a2ac7b68c6a98d423f45b6cb48618e6bfe5f840b5029f6e8a7493a98206f69/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f632f632d6f726967696e616c2e737667"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" alt="c#" src="https://camo.githubusercontent.com/cd69d465422b52004238e359201fbe2cb18fa4b7cf10389ddfc5f522e6b83ce3/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/f283f4a1c87ced7aad208eaa1d239488e7971752ca9e5d01bd629526a204b2bf/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
