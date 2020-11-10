@@ -9,6 +9,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,13 +29,25 @@
 <code><img height="20" src="https://camo.githubusercontent.com/f283f4a1c87ced7aad208eaa1d239488e7971752ca9e5d01bd629526a204b2bf/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 ### Let's Connect Connect:
+
 [<img align="left" alt="varlackc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<br />
+
+---
+### 📺 Latest YouTube Videos
+- [Learn how to install Python in Windows 10](https://www.youtube.com/watch?v=WviQKJjke6E&t)
+- [Learn how to create a hellow world program in Python](https://www.youtube.com/watch?v=1RxBp7Sn2gE)
+- [Learn how to use variables in Python](https://www.youtube.com/watch?v=E2ShCO42ols&t)
+
 
 [linkedin]: https://www.linkedin.com/in/carlos-maxwell-varlack-aaa988118/
-
+[youtube]: https://www.youtube.com/channel/UCiZaDRtcGoj0M_sX_ZEM-Yw
 <!-- 
     Templated from: codeSTACKr channel
 -->
