@@ -6,6 +6,7 @@
 - 🌱 Always learning something new...
 - 👯 Looking for collaboration with others...
 - 🆘 Maybe I can help you...
+- 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: Linkedin (preferable)
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
@@ -33,7 +34,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-### Let's Connect:
+### 📫 Let's Connect:
 [<img align="left" alt="Varlackc | YouTube" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:varlackc@mail.gvsu.edu?subject=From%20GitHub&cc=esmerlinjm@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [<img align="left" alt="Varlackc | YouTube" width="88px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/maxwell.varlack)
 [<img align="left" alt="varlackc | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlos-maxwell-varlack-aaa988118/)
