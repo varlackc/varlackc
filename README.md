@@ -1,3 +1,6 @@
+<img align="center" alt="Header Image"  src="src/science.gif" />
+<br/><br/>
+
 ### 👋 Hello, my name is Maxwell Varlack 👋
 
 ## 💻 Software Engineer and Content Creator!
