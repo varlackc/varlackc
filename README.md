@@ -32,7 +32,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<br/>
 
 ### 📫 Let's Connect:
 [<img align="left" alt="Varlackc | YouTube" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:varlackc@mail.gvsu.edu?subject=From%20GitHub&cc=esmerlinjm@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
