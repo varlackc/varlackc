@@ -1,4 +1,4 @@
-<img align="center" alt="Header Image"  src="src/science.gif" />
+<img align="center" alt="Header Image"  src="src/Torus.gif" />
 
 
 ### 👋 Hello, my name is Maxwell Varlack 👋
