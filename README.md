@@ -56,6 +56,7 @@
 - [Learn how to install Python in Windows 10](https://www.youtube.com/watch?v=WviQKJjke6E&t)
 - [Learn how to create a hellow world program in Python](https://www.youtube.com/watch?v=1RxBp7Sn2gE)
 - [Learn how to use variables in Python](https://www.youtube.com/watch?v=E2ShCO42ols&t)
+- [Learn how to use data types in Python](https://www.youtube.com/watch?v=GhlgB5w2ALw&t)
 
 <!-- 
     Templated from: codeSTACKr channel
