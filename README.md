@@ -11,7 +11,7 @@
 - 🆘 Maybe I can help you...
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: Linkedin (preferable)
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 <br/>
 
 ### Portfolio Site Example
