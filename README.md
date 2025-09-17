@@ -45,7 +45,6 @@
 
 ### 📫 Let's Connect:
 [<img align="left" alt="Varlackc | YouTube" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:varlackc@mail.gvsu.edu?subject=From%20GitHub&cc=esmerlinjm@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[<img align="left" alt="Varlackc | YouTube" width="88px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/maxwell.varlack)
 [<img align="left" alt="varlackc | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maxwell-varlack-aaa988118/)
 [<img align="left" alt="Varlackc | YouTube" width="82px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCiZaDRtcGoj0M_sX_ZEM-Yw)
 <br />
